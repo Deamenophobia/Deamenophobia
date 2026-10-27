@@ -4,6 +4,8 @@ I build tools for understanding data, exploring code, and working with infrastru
 My projects include local analytical workbenches, reusable interfaces, and focused
 utilities in Rust, TypeScript, JavaScript, Python, Go, and Java.
 
+**Personal blog:** [happykokoro.com](https://happykokoro.com/)
+
 [Data & visualization](#data-processing--visualization) ·
 [Developer tools](#developer-tools--interfaces) ·
 [Infrastructure](#infrastructure--operations) ·
