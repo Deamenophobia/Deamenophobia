@@ -44,7 +44,7 @@ table and project formats.
 | Project | What it does | Main technologies |
 | --- | --- | --- |
 | [Ops Compass](https://github.com/Deamenophobia/ops-compass) | Organize service catalogs, AWS/SSH connections, runbooks, worklogs and read-only tools for AI clients in a local operations portal. | Backstage, TypeScript and React |
-| [Small Server OB](https://github.com/Deamenophobia/small-server-ob) | Monitor servers across providers with SSH metrics, HTTP/TCP health checks, notes, local history and cost estimates. | JavaScript, Node.js, HTML/CSS and OpenSSH |
+| [Small Server OB](https://github.com/Deamenophobia/small-server-ob) | Monitor servers across providers with SSH metrics, HTTP/TCP checks, optional Docker container inventory and health status, notes, local history and cost estimates. | JavaScript, Node.js, HTML/CSS, OpenSSH and Docker CLI |
 | [VPN Config Kit](https://github.com/Deamenophobia/vpn-config-kit) | Manage configuration for a single WireGuard gateway, with optional Xray support. | Rust, WireGuard and Xray |
 | [VPN Toolkit Go](https://github.com/Deamenophobia/vpn-toolkit-go) | Generate AnyTLS server configurations and client profiles through a CLI or local web UI. | Go and AnyTLS |
 
